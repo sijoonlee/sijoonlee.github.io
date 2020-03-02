@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: About Me
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Learn, Practice and Make Something Real'
+image: 
 nav-menu: true
 ---
 
@@ -13,75 +13,71 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Introduction</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Hello, My name is Sijoon Lee,<br> 
+		Studying web applications and deep learning technologies,<br>
+		And seeking the new way of interaction between human and computer that makes our lives better.<br>
+		</p>
+	</div>
+</section>
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h2>Educations</h2>
+		</header>
+		<ul>
+			<li>Computer Programmer Analyst, Advanced Diploma, 2018 ~ 2021<br>St. Lawrence College, Kingston, ON</li>
+			<li>Chemistry, Bachelor of Science, 2000 ~ 2004<br>POSTECH, Pohang, S.Korea</li>                                                                                  
+		</ul>
 	</div>
 </section>
 
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Certifications</h2>
+		</header>
+		<ul>
+			<li>Greedy Algorithms, Minimum Spanning Trees and Dynamic Programming, 2020<br>Standford University, Coursera</li>
+			<li>Graph Search, Shortest Paths and Data Structures, 2019<br>Standford University, Coursera</li>
+			<li>Divide and Conquer, Sorting and Searching and Randomized Algorithms, 2019<br>Standford University, Coursera</li>
+			<li>Computer Vision Nanodegree, 2019<br>Udacity</li> 
+		</ul>
+	</div>
+</section>
 <!-- Two -->
-<section id="two" class="spotlights">
+<!-- <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Educations</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Rhoncus magna</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Sed nunc ligula</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
+</section> -->
 
 </div>
