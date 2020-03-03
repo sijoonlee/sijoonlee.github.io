@@ -15,8 +15,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Hello, My name is Sijoon Lee,<br> 
-		Studying web applications and deep learning technologies,<br>
+		<p>Hello, My name is Sijoon Lee,<br>
+		Studying computer programming at St.Lawrence College,
+		Being interested in web applications and deep learning technologies,<br>
 		And seeking the new way of interaction between human and computer that makes our lives better.<br>
 		</p>
 	</div>
