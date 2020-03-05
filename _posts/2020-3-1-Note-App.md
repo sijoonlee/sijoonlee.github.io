@@ -8,4 +8,4 @@ image: assets/images/note-app.jpg
 - Vanilla JavaScript for the frontend, Node.js, MongoDB for the backend
 - Authentication using JSON Web Token  
 - [Github Link](https://github.com/sijoonlee/note-app)  
-- [Heroku Link](https://sijoon-note-app.herokuapp.com/)  
+- [Demo(Heroku) Link](https://sijoon-note-app.herokuapp.com/) * works on chrome browser
